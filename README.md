@@ -1,7 +1,12 @@
-### Hi, I'm Daniel Novais
+### 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=234322&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Daniel+Siqueira;Eu+tenho+33+anos+✨;Sou+de+São+Paulo;+✨+Estudante+de+tecnologia+✨;)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 Estudante de TADS ...
+- 👯 I’m looking to collaborate on ...
+##
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/daniel-novais-dos-santos-siqueira-296a81236/)
 ##
 <div align="center">
   <a href="https://github.com/N0vais">
@@ -19,6 +24,13 @@
 </div>
   
   ##
-<div>
-   <a href="https://www.linkedin.com/in/daniel-siqueira-4b445a215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-        badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
+  ### Tools:
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+
+
+##
+
+  
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=N0vais&repo=N0vais&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/N0vais/N0vais)
