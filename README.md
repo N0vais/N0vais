@@ -1,6 +1,6 @@
 ### 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=234322&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Daniel+Siqueira;Eu+tenho+33+anos+✨;Sou+de+São+Paulo;+✨+Estudante+de+tecnologia+✨;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=234322&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Daniel+Siqueira;Eu+tenho+36+anos+✨;Sou+de+São+Paulo;+✨+Estudante+de+tecnologia+✨;)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 Estudante de TADS ...
