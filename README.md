@@ -1,41 +1,80 @@
+# Daniel siqueira
+
+**`Desenvolvedor fullStack`**
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=234322&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Daniel+Novais✨;Sou+de+São+Paulo;+✨+Estudante+de+tecnologia+✨;)](https://git.io/typing-svg)
+Sou desenvolvedor em trasição de carreira, após 16 anos liderando pessoas e processos, trago para a área de tecnologia a maturidade profissional adquirida na gestão, aliada à paixão pelo desenvolvimento com Node.js e JavaScript Estou pronto para novos desafios técnicos, levando comigo a resiliência, visão estratégica e capacidade de construir soluções digitais de alto impacto que construi nessa jornada.
 
-- 🔭 I’m not currently working on ...
-- 🌱 Estudante de Cibersegurança ...
-- 👯 I’m looking to collaborate on ...
-##
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/daniel-novais-dos-santos-siqueira-296a81236/)
-##
-<div align="center">
-  <a href="https://github.com/N0vais">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N0vais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0vais&layout=compact&langs_count=7&theme=dracula"/>
+<p align="left">
+      <a href="https://www.youtube.com/@danielnovais7412/xregexp">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCjvyeaPHD2-gnOi1snh-aoA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+      </a> 
+      <a href="https://www.youtube.com/@danielnovais7412">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCjvyeaPHD2-gnOi1snh-aoA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+      </a> 
+      <a href="https://github.com/N0vais?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/N0vais?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+      </a>
+      <a href="https://github.com/N0vais?tab=repositories&sort=stargazers">
+         <img alt="total estrelas" title="Total estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/N0vais?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
+      </a>
+      <a href="https://www.linkedin.com/in/daniel-dev-2026-pl">
+         <img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
+      </a>
+   </p>
+
+---
+## Linguagens e Tecnologias
+
+
+<div style="display: inline_block">
+  <img align="center" alt="Node" height="50" width="60" 
+    src="https://skillicons.dev/icons?i=nodejs">
+  <img align="center" alt="N0vais-Java" height="50" width="60" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="N0vais-Js" height="50" width="60" 
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
+  <img align="center" alt="N0vais-HTML" height="50" width="60" 
+    src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg>
+  <img align="center" alt="N0vais-CSS" height="50" width="60" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="N0vais-C#" height="50" width="60" 
+    src="https://skillicons.dev/icons?i=cs">
+  <img align="center" alt="N0vais-PHP" height="50" width="60" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+   <img align="center" alt="N0vais-FireBase" height="50" width="60" 
+     src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg">
+  <img align="center" alt="N0vais-PYTHON" height="50" width="60" src="https://skillicons.dev/icons?i=sqlite">
+  <img align="center" alt="N0vais-PYTHON" height="50" width="60" src="https://skillicons.dev/icons?i=py">
+  <img align="center" alt="N0vais-PYTHON" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+          
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="N0vais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="N0vais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="N0vais-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="N0vais-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="N0vais-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="N0vais-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="N0vais-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+---
+### Estatisticas
+<br>
+<div  align="left">
+<img align="center" alt="N0vais-PYTHON"  width="600" 
+  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N0vais&theme=2077"
+/>
+<img align="center" alt="N0vais-PYTHON"  width="290" 
+  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N0vais&theme=2077"
+/>
+
 </div>
-  
-  ##
-  ### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-##
-### Bibliotecas & Frameworks: 
-  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-##
+---
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=234322&size=40&center=true&vCenter=true&width=1000&lines=No+momento;estou+mergulhado+no+eco+sistema;de+Cyber+Security;+✨+Estudante+de+tecnologia+na+@FIAP+✨;)](https://git.io/typing-svg)
+
+---
+<p align="center">
+  <i>"Construindo um ambiente digital mais seguro, um commit de cada vez. 🛡️ Transformando conceitos em código e explorando novas tecnologias através de projetos práticos."</i>
+</p>
+
+
+
+
 
   
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=N0vais&repo=N0vais&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/N0vais/N0vais)
+
+
