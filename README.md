@@ -3,7 +3,7 @@
 **`Desenvolvedor fullStack`**
 
 
-Sou desenvolvedor em trasição de carreira, após 16 anos liderando pessoas e processos, trago para a área de tecnologia a maturidade profissional adquirida na gestão, aliada à paixão pelo desenvolvimento com Node.js e JavaScript Estou pronto para novos desafios técnicos, levando comigo a resiliência, visão estratégica e capacidade de construir soluções digitais de alto impacto que construi nessa jornada.
+Sou desenvolvedor em trasição de carreira, após 17 anos liderando pessoas e processos, trago para a área de tecnologia a maturidade profissional adquirida na gestão, aliada à paixão pelo desenvolvimento com Node.js e JavaScript Estou pronto para novos desafios técnicos, levando comigo a resiliência, visão estratégica e capacidade de construir soluções digitais de alto impacto que construi nessa jornada.
 
 <p align="left">
       <a href="https://www.youtube.com/@danielnovais7412/xregexp">
